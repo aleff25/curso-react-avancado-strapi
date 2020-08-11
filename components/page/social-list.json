@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_page_social_lists",
+  "info": {
+    "name": "socialList",
+    "icon": "network-wired"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "enumeration",
+      "enum": [
+        "Facebook",
+        "Twitter",
+        "Github",
+        "Linkedin",
+        "Dribble"
+      ],
+      "default": "Twitter",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
