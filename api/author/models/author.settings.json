@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "author",
+  "collectionName": "authors",
   "info": {
-    "name": "author"
+    "name": "authors"
   },
   "options": {
     "increments": true,
